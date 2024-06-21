@@ -5,7 +5,7 @@
 User input prompts are very helpful when it comes to interactive programming. Not only in games but also in standard file operations, you may want your user to interact with the program.
 Therefore, the user needs the opportunity to be able to put in information.
 """
-
+""" Comment here
 
 def user_input():
 	"""Input prompt"""
